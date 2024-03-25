@@ -1,4 +1,4 @@
-# MULTILABELCAPECCLASSIFICATIONOFWEBATTACKS
+# MULTILABEL CAPEC CLASSIFICATION OF WEBATTACKS
 
 This machine learning (ML) project focuses on the identification and classification of web attacks by leveraging advanced multilabel machine learning algorithms. The primary objective is to categorize web attacks into Common Attack Pattern Enumeration and Classification (CAPEC) categories, providing a comprehensive understanding of the threats posed to web applications. The project employs a diverse set of multilabel machine learning algorithms, including but not limited to Binary Relevance, Random Forest, Label Powerset, Multi-Output Classifier, and LightGBM. These algorithms are selected for their ability to handle the complex and interconnected nature of web attack patterns, allowing for a more nuanced and accurate classification of threats.
 
