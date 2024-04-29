@@ -43,14 +43,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-
-"""
-it is such a shame that you have not even opened the editor since, 4/12/2023 and still you are solving problems every day!!!
-Such a shame!
-fucking get your ass up and learn bith!! learn!!!
-minimisation ka koi bhi question aaye, chod kr nahi aana h, just be patient
-
-"""
