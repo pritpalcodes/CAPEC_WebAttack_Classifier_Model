@@ -1,6 +1,5 @@
 import streamlit as st
 import pickle
-import pandas as pd
 
 
 # Dictionary of attack URLs and their corresponding attack types
